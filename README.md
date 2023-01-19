@@ -43,9 +43,9 @@ My current research interests are **interactive and data-centric AI/ML** with an
 - University of Illinois Urbana-Champaign - BS in Statistics and Computer Science. 
 
 ## Industrial Internship
-- Star Bridge Research Assistant - Microsoft Research (Asia) (2020.09-2021.12)
+- Microsoft Research (Asia) - Star Bridge Research Assistant (2020.09-2021.12)
 <br> Supervised by Dr. [Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en).
-- Research Intern - ByteDance AI Lab (2020.04-2020.09)
+- ByteDance AI Lab - Research Intern (2020.04-2020.09)
 <br> Supervised by Prof. [Lei Li](https://lileicc.github.io/).
 
 
