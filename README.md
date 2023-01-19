@@ -4,7 +4,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 ## Research Interests
 My current research interests are **interactive and data-centric AI/ML** with an emphasis on effort-light approach. My ultimate goal is to build effective, efficient and explainable data-centric ML systems. My past explorations lay in the intersection of data mining, machine learning and natural language processing.
 
-## Selected Publication s
+## Selected Publications
 (\* denotes equal contribution)
 ### Prepints
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
