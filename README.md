@@ -5,12 +5,12 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 My current research interests are **interactive and data-centric AI/ML** with an emphasis on effort-light approach. My ultimate goal is to build effective, efficient and explainable data-centric ML systems. My past explorations lay in the intersection of data mining, machine learning and natural language processing.
 
 ## Selected Publication 
-<br>(\* denotes equal contribution)
+(\* denotes equal contribution)
 ### Prepints
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
-<br>**Jieyu Zhang***, Cheng-Yu Hsieh*, Yue Yu*, Chao Zhang, Alexander Ratner.
+<br>**Jieyu Zhang**\*, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
-<br>**Jieyu Zhang***, , Linxin Song*, Alexander Ratner.
+<br>**Jieyu Zhang**\*, , Linxin Song\*, Alexander Ratner.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
 <br>Hong Guo*, Yujing Wang*, **Jieyu Zhang***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
 
@@ -20,7 +20,7 @@ My current research interests are **interactive and data-centric AI/ML** with an
 <br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
 <br>*VLDB 2023*.
 - [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
-<br>**Jieyu Zhang***, Haonan Wang*, Cheng-Yu Hsieh, Alexander Ratner.
+<br>**Jieyu Zhang**\*, Haonan Wang\*, Cheng-Yu Hsieh, Alexander Ratner.
 <br>*NeurIPS 2022*.
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>**Jieyu Zhang**, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
