@@ -1,4 +1,3 @@
-## About Me
 I am a 3rd-year PhD student in Computer Science at University of Washington, Seattle, advised by Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science of University of Illinois Urbana-Champaign, where I was fortunated to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). During the past, I spent time at Microsoft Research Asia and ByteDance AI Lab.
 
 ## Research Interests
