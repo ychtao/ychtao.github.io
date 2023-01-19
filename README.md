@@ -1,10 +1,10 @@
-## About Myself
+## About Me
 I am a 3rd-year PhD student in Computer Science at University of Washington, Seattle, advised by Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science of University of Illinois Urbana-Champaign, where I was fortunated to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). During the past, I spent time at Microsoft Research Asia and ByteDance AI Lab.
 
 ## Research Interests
 My current research interests are **interactive and data-centric AI/ML** with an emphasis on effort-light approach. My ultimate goal is to build effective, efficient and explainable data-centric ML systems. My past explorations lay in the intersection of data mining, machine learning and natural language processing.
 
-## Selected Publication 
+## Selected Publication s
 (\* denotes equal contribution)
 ### Prepints
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
