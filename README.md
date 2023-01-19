@@ -44,7 +44,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 
 ## Education
 - University of Washington - Ph.D. in Computer Science  (2020 - Present). 
-- University of Illinois Urbana-Champaign - BS in Statistics and Computer Science. 
+- University of Illinois Urbana-Champaign - B.S. in Statistics and Computer Science. 
 
 ## Industrial Internship
 - Microsoft Research (Asia) - Star Bridge Research Assistant
