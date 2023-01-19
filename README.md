@@ -1,62 +1,55 @@
 ## About Myself
-Hi, I am a Ph.D. student of the joint Ph.D. Program of USTC and Microsoft Research (Asia). I am very fortunate to be advised by Professor [Wei Chen](https://weichen-cas.github.io/) and Professor [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html). I also work closely with [Dr. Qi Meng](https://www.microsoft.com/en-us/research/people/meq/), [Dr. Huishuai Zhang](https://www.microsoft.com/en-us/research/people/huzhang/), and [Prof. Ruoyu Sun](https://ruoyus.github.io/). 
+I am a 3rd-year PhD student in Computer Science at University of Washington, Seattle, advised by Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science of University of Illinois Urbana-Champaign, where I was fortunated to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). During the past, I spent time at Microsoft Research Asia and ByteDance AI Lab.
 
 ## Research Interests
-I am broadly interested in the linear span of optimization, generalization and representation in deep learning.
+My current research interests are **interactive and data-centric AI/ML** with an emphasis on effort-light approach. My ultimate goal is to build effective, efficient and explainable data-centric ML systems. My past explorations lay in the intersection of data mining, machine learning and natural language processing.
+
+## Selected Publication (\* denotes equal contribution)
+### Prepints (\* denotes equal contribution)
+- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
+<br>**Jieyu Zhang***, Cheng-Yu Hsieh*, Yue Yu*, Chao Zhang, Alexander Ratner.
+- [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
+<br>**Jieyu Zhang***, , Linxin Song*, Alexander Ratner.
+- [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
+<br>Hong Guo*, Yujing Wang*, **Jieyu Zhang***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
 
 
-## Prepints
-- [Provable Adaptivity in Adam](https://arxiv.org/abs/2208.09900)
-<br>**Bohan Wang**, Yushun Zhang, Huishuai Zhang, Qi Meng, Zhi-Ming Ma, Tie-Yan Liu, Wei Chen
-<br>**Remark:** This is a very exciting paper on why Adam outperforms SGD from the perspective of global convergence analysis. A brief introduction (in Chinese) can be found [here](https://www.zhihu.com/question/323747423/answer/2642005682).
-
-
-
-
-## Publication (\* denotes equal contribution)
-- [Does Momentum Change the Implicit Regularization on Separable Data?](https://arxiv.org/abs/2110.03891)
-<br>**Bohan Wang**, Qi Meng, Huishuai Zhang, Ruoyu Sun, Wei Chen, Zhi-Ming Ma, Tie-Yan Liu
-<br>Neurips 2022 (<font color=red>Spotlight</font>).
+### Inproceedings
+- [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
+<br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
+<br>*VLDB 2023*.
+- [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
+<br>**Jieyu Zhang***, Haonan Wang*, Cheng-Yu Hsieh, Alexander Ratner.
+<br>*NeurIPS 2022*.
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
-<br>Jieyu Zhang, **Bohan Wang**, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
-<br>ICLR 2022.
-- [Machine-Learning Non-Conservative Dynamics for New-Physics Detection](https://arxiv.org/abs/2106.00026)
-<br>Ziming Liu, **Bohan Wang**, Qi Meng, Wei Chen, Max Tegmark, Tie-Yan Liu.
-<br>Physics Review E.
-- [Optimizing Information-theoretical Generalization Bound via Anisotropic Noise in SGLD](https://nips.cc/Conferences/2021/ScheduleMultitrack?event=27503).
-<br>**Bohan Wang**, Huishuai Zhang, Jieyu Zhang, Qi Meng, Wei Chen, Tie-Yan Liu.
-<br>NeurIPS 2021.
-- [The Implicit Bias for Adaptive Optimization Algorithms on Homogeneous Neural Networks](http://proceedings.mlr.press/v139/wang21q.html)
-<br>**Bohan Wang**, Qi Meng, Wei Chen, Tie-Yan Liu. 
-<br>ICML 2021 (<font color=red>Long Presentation</font>).
-- [Tighter generalization bounds for iterative differentially private learning algorithms](https://www.auai.org/uai2021/pdf/uai2021.308.pdf)
-<br>\***Bohan Wang** ,\*Fengxiang He, Dacheng Tao.
-<br>UAI 2021.
-- [Piecewise linear activations substantially shape the loss surfaces of neural networks](https://openreview.net/forum?id=B1x6BTEKwr)
-<br>\***Bohan Wang**,  \*Fengxiang He, Dacheng Tao.
-<br>ICLR 2020.
+<br>**Jieyu Zhang**, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
+<br>*ICLR 2022*.
+- [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
+<br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
+<br>*NeurIPS 2021* (<font color=red>Oral Presentation</font>).
+
+### Before Ph.D.
+- [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
+<br>**Jieyu Zhang**, Xiangchen Song, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
+<br>*AAAI 2021*.
+- [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
+<br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
+<br>*ICDM 2019* (<font color=red>Best Paper</font>).
+
 
 ## Education
-- University of Science and Technology of China - Joint Ph.D. Program of USTC & MSR (Asia) (2021 - Present). 
-<br>Supervised by Prof. [Wei Chen](weichen-cas.github.io) and Prof. [Zhi-Ming Ma](http://homepage.amss.ac.cn/research/homePage/8eb59241e2e74d828fb84eec0efadba5/myHomePage.html).
-- University of Science and Technology of China - Sc.B in Computational Mathematics. 
-<br>Supervised by Prof. [Jie Wang](https://miralab.ai/people/jie-wang/).
+- University of Washington - Ph.D. in Computer Science  (2020 - Present). 
+- University of Illinois Urbana-Champaign - BS in Statistics and Computer Science. 
 
-## Internship
-- Research Assistant - University of Sydney (2019.06-2019.09). 
-<br> Supervised by Prof. [Dacheng Tao](https://www.sydney.edu.au/engineering/about/our-people/academic-staff/dacheng-tao.html)
-- Star Bridge Research Assistant - Microsoft Research (Asia) (2020.09-2021.08)
-<br> Supervised by Prof. [Wei Chen](weichen-cas.github.io).
+## Industrial Internship
+- Star Bridge Research Assistant - Microsoft Research (Asia) (2020.09-2021.12)
+<br> Supervised by Dr. [Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en).
+- Research Intern - ByteDance AI Lab (2020.04-2020.09)
+<br> Supervised by Prof. [Lei Li](https://lileicc.github.io/).
 
-## Awards
-- Travel Award, Neurips 2021.
 
 ## Professional Service
-- Reviewer for AISTATS 2022, ICML 2022, Neurips 2022, ACML 2022.
-- I cofound the [Theory Lecture Series of Microsoft Research Asia Theory Center](https://www.microsoft.com/en-us/research/event/msr-asia-theory-lecture-series/), featuring the latest theoretical advances in big data, artificial intelligence, and related areas.
-
-## Miscellaneous
-The photo is taken by my girl friend [Xianyi Tao](https://www.linkedin.com/in/xianyi-tao-622171137/?originalSubdomain=cn). We have met since we were high school classmates.
+- Reviewer for NeurIPS, AAAI, IJCAI, CVPR, ACL, EMNLP, KDD, LOG.
 
 ## Contact
-Email: bhwangfy@gmail.com
+Email: jieyuz2@cs.washington.edu
