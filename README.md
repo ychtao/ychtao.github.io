@@ -50,7 +50,7 @@ My current research interests are **interactive and data-centric AI/ML** with an
 
 
 ## Professional Service
-- Reviewer for NeurIPS, AAAI, IJCAI, CVPR, ACL, EMNLP, KDD, LOG.
+- Reviewer for NeurIPS, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, KDD, LOG.
 
 ## Contact
 Email: jieyuz2@cs.washington.edu
