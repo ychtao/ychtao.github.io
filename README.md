@@ -34,6 +34,9 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 - [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
 <br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
 <br>*ICDM 2020* (<font color=red>Best Paper</font>).
+- [Neural Embedding Propagation on Heterogeneous Networks]([https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg](https://arxiv.org/abs/1910.00005))
+<br>Carl Yang\*, **Jieyu Zhang**\*, Jiawei Han.
+<br>*ICDM 2019*.
 
 
 ## Education
