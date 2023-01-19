@@ -53,5 +53,4 @@ My current research interests are **interactive and data-centric AI/ML** with an
 
 ## Contact
 Email: jieyuz2@cs.washington.edu
-
-Twitter: @JieyuZhang20
+<br>Twitter: @JieyuZhang20
