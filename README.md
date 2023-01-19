@@ -31,6 +31,9 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br>*NeurIPS 2021* (<font color=red>Oral Presentation</font>).
 
 ### Before Ph.D.
+- [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)
+<br>Minhao Jiang, Xiangchen Song, **Jieyu Zhang**, Jiawei Han.
+<br>*WWW 2022*.
 - [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
 <br>**Jieyu Zhang**, Xiangchen Song, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
 <br>*AAAI 2021*.
