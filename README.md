@@ -47,9 +47,11 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 - University of Illinois Urbana-Champaign - BS in Statistics and Computer Science. 
 
 ## Industrial Internship
-- Microsoft Research (Asia) - Star Bridge Research Assistant (2020.09-2021.12)
+- Microsoft Research (Asia) - Star Bridge Research Assistant
+<br> 2020.09-2021.12
 <br> Supervised by Dr. [Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en).
-- ByteDance AI Lab - Research Intern (2020.04-2020.09)
+- ByteDance AI Lab - Research Intern
+<br> 2020.04-2020.09
 <br> Supervised by Prof. [Lei Li](https://lileicc.github.io/).
 
 
