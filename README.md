@@ -12,6 +12,9 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 
 
 ### Inproceedings
+- [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
+<br>Renzhi Wu, Shen-En Chen, **Jieyu Zhang**, Xu Chu.
+<br>*ICLR 2023*.
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang**\*, Linxin Song\*, Alexander Ratner.
 <br>*AISTATS 2023*.
