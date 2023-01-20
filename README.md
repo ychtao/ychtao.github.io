@@ -7,13 +7,14 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 ### Prepints
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
 <br>**Jieyu Zhang**\*, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
-- [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
-<br>**Jieyu Zhang**\*, Linxin Song\*, Alexander Ratner.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
 <br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang**\*, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
 
 
 ### Inproceedings
+- [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
+<br>**Jieyu Zhang**\*, Linxin Song\*, Alexander Ratner.
+<br>*AISTATS 2023*.
 - [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
 <br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
 <br>*VLDB 2023*.
