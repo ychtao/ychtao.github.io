@@ -9,7 +9,8 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br>**Jieyu Zhang**\*, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
 <br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang**\*, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
-
+- [DataComp: In search of the next generation of multimodal datasets]()
+<br>Samir Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, **Jieyu Zhang**, and 23 other authers.
 
 ### Inproceedings
 - [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
