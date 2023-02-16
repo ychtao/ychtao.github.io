@@ -4,7 +4,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 
 ## Selected Publications
 (\* denotes equal contribution)
-### Prepints
+### Preprints
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
 <br>**Jieyu Zhang**\*, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
