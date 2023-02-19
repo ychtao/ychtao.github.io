@@ -54,7 +54,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 - University of Washington - Ph.D. in Computer Science  (2020 - Present). 
 - University of Illinois Urbana-Champaign - B.S. in Statistics and Computer Science. 
 
-## Industrial Internship
+## Industrial Experience
 - Microsoft Research (Asia) - Star Bridge Research Assistant
 <br> 2020.09-2021.12
 <br> Supervised by Dr. [Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en).
@@ -70,7 +70,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 -UIUC James Scholar Preble Research Award
 -UIUC John R. Pasta Outstanding Undergraduate Award
 
-## Professional Service
+## Professional Services
 - Reviewer: NeurIPS, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, KDD, LOG.
 
 ## Contact
