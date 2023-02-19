@@ -63,12 +63,12 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br> Supervised by Prof. [Lei Li](https://lileicc.github.io/).
 
 ## Awards
--ICDM'20 Best Paper Award
--ICDM'19 Student Travel Awa
--CRA Outstanding Undergraduate Researcher Honorable Mention
--Jane Street Graduate Research Fellowship Honorable Mention
--UIUC James Scholar Preble Research Award
--UIUC John R. Pasta Outstanding Undergraduate Award
+- ICDM'20 Best Paper Award
+- ICDM'19 Student Travel Awa
+- CRA Outstanding Undergraduate Researcher Honorable Mention
+- Jane Street Graduate Research Fellowship Honorable Mention
+- UIUC James Scholar Preble Research Award
+- UIUC John R. Pasta Outstanding Undergraduate Award
 
 ## Professional Services
 - Reviewer: NeurIPS, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, KDD, LOG.
