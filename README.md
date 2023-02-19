@@ -64,7 +64,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 
 ## Awards
 - ICDM'20 Best Paper Award
-- ICDM'19 Student Travel Awa
+- ICDM'19 Student Travel Award
 - CRA Outstanding Undergraduate Researcher Honorable Mention
 - Jane Street Graduate Research Fellowship Honorable Mention
 - UIUC James Scholar Preble Research Award
