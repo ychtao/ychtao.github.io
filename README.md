@@ -13,12 +13,12 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br>Samir Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, **Jieyu Zhang**, and 23 other authers.
 
 ### Inproceedings
-- [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
-<br>Renzhi Wu, Shen-En Chen, **Jieyu Zhang**, Xu Chu.
-<br>*ICLR 2023*.
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang**\*, Linxin Song\*, Alexander Ratner.
 <br>*AISTATS 2023*.
+- [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
+<br>Renzhi Wu, Shen-En Chen, **Jieyu Zhang**, Xu Chu.
+<br>*ICLR 2023*.
 - [Binary Classification with Positive Labeling Sources]([https://arxiv.org/abs/2205.12879](https://dl.acm.org/doi/abs/10.1145/3511808.3557552))
 <br>**Jieyu Zhang**, Yujing Wang, Yaming Yang, Yang Luo, Alexander Ratner.
 <br>*CIKM 2022*.
