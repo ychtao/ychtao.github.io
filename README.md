@@ -33,7 +33,8 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br>*ICLR 2022*.
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
-<br>*NeurIPS 2021* (<font color=red>Oral Presentation</font>).
+<br>*NeurIPS 2021*.
+<br><font color=red>Oral Presentation</font>
 
 ### Before Ph.D.
 - [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)
@@ -44,7 +45,8 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br>*AAAI 2021*.
 - [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
 <br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
-<br>*ICDM 2020* (<font color=red>Best Paper</font>).
+<br>*ICDM 2020*.
+<br><font color=red>Best Paper</font>
 - [Neural Embedding Propagation on Heterogeneous Networks]([https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg](https://arxiv.org/abs/1910.00005))
 <br>Carl Yang\*, **Jieyu Zhang\***, Jiawei Han.
 <br>*ICDM 2019*.
