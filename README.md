@@ -4,13 +4,6 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 
 ## Selected Publications
 (\* denotes equal contribution)
-### Preprints
-- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
-<br>**Jieyu Zhang\***, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
-- [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
-<br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
-- [DataComp: In search of the next generation of multimodal datasets]()
-<br>Samir Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, **Jieyu Zhang**, and 23 other authers.
 
 ### Inproceedings
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
@@ -19,22 +12,27 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 - [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
 <br>Renzhi Wu, Shen-En Chen, **Jieyu Zhang**, Xu Chu.
 <br>*ICLR 2023*.
-- [Binary Classification with Positive Labeling Sources]([https://arxiv.org/abs/2205.12879](https://dl.acm.org/doi/abs/10.1145/3511808.3557552))
-<br>**Jieyu Zhang**, Yujing Wang, Yaming Yang, Yang Luo, Alexander Ratner.
-<br>*CIKM 2022*.
-- [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
-<br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
-<br>*VLDB 2022*.
 - [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
 <br>**Jieyu Zhang\***, Haonan Wang\*, Cheng-Yu Hsieh, Alexander Ratner.
 <br>*NeurIPS 2022*.
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>**Jieyu Zhang**, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
 <br>*ICLR 2022*.
+- [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
+<br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
+<br>*VLDB 2022*.
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br>*NeurIPS 2021*.
 <br><font color=red>Oral Presentation</font>
+
+### Preprints
+- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
+<br>**Jieyu Zhang\***, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
+- [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
+<br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
+- [DataComp: In search of the next generation of multimodal datasets]()
+<br>Samir Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, **Jieyu Zhang**, and 23 other authers.
 
 ### Before Ph.D.
 - [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)
