@@ -27,12 +27,12 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br><font color=red>Oral Presentation</font>
 
 ### Preprints
-- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
-<br>**Jieyu Zhang\***, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
-- [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
-<br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
 - [DataComp: In search of the next generation of multimodal datasets]()
 <br>Samir Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, **Jieyu Zhang**, and 23 other authers.
+- [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
+<br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
+- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
+<br>**Jieyu Zhang\***, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
 
 ### Before Ph.D.
 - [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)
