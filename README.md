@@ -27,7 +27,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br><font color=red>Oral Presentation</font>
 
 ### Preprints
-- [DataComp: In search of the next generation of multimodal datasets]()
+- [DataComp: In search of the next generation of multimodal datasets](https://arxiv.org/abs/2304.14108)
 <br>Samir Gadre, Gabriel Ilharco, Alex Fang, Jonathan Hayase, Georgios Smyrnis, Thao Nguyen, Ryan Marten, Mitchell Wortsman, Dhruba Ghosh, **Jieyu Zhang**, and 23 other authers.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
 <br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
