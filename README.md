@@ -28,7 +28,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 
 ### Preprints
 - [DataComp: In search of the next generation of multimodal datasets](https://arxiv.org/abs/2304.14108)
-<br>34 authers.
+<br>34 authors.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
 <br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
