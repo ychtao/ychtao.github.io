@@ -27,7 +27,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br><font color=red>Oral Presentation</font>
 
 ### Preprints
-- [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training]()
+- [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 - [DataComp: In search of the next generation of multimodal datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
