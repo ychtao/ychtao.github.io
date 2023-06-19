@@ -2,7 +2,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 
 **Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on effort-light approach and their applications in chemistry, biology, physics, etc.. My ultimate goal is to build effective, efficient, and explainable data-centric ML systems. My past explorations lay in the intersection of machine learning, data mining, and natural language processing.
 
-## Selected Publications
+## 📝 Selected Publications
 (\* denotes equal contribution)
 
 ### Peer-reviewed
@@ -62,11 +62,11 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br>*ICDM 2019*.
 
 
-## Education
+## 🎓 Education
 - University of Washington - Ph.D. in Computer Science  (2020 - Present). 
 - University of Illinois Urbana-Champaign - B.S. in Statistics and Computer Science. 
 
-## Industrial Experience
+## 👨‍💻 Industrial Experience
 - Microsoft Research (Redmond) - Research Intern
 <br> 2023.06-2023.9
 <br> Supervised by Dr. [Chi Wang](https://www.microsoft.com/en-us/research/people/chiw/).
@@ -77,7 +77,7 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br> 2020.04-2020.09
 <br> Supervised by Prof. [Lei Li](https://lileicc.github.io/).
 
-## Awards
+## 🏅 Awards
 - Jane Street Graduate Research Fellowship Honorable Mention
 - CRA Outstanding Undergraduate Researcher Honorable Mention
 - ICDM'20 Best Paper Award
@@ -85,9 +85,9 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 - UIUC James Scholar Preble Research Award
 - UIUC John R. Pasta Outstanding Undergraduate Award
 
-## Professional Services
+## 📍 Professional Services
 - Reviewer: NeurIPS, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, KDD, LOG.
 
-## Contact
+## 📫 Contact
 Email: jieyuz2@cs.washington.edu
 <br>Twitter: @JieyuZhang20
