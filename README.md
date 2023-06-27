@@ -39,6 +39,8 @@ I am a 3rd-year PhD student in Computer Science at University of Washington, Sea
 <br><font color=red>Oral Presentation</font>
 
 ### Preprints
+- [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
+<br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
 - [DataComp: In search of the next generation of multimodal datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
