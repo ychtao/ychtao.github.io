@@ -44,7 +44,7 @@
 <br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
 <br>*VLDB 2022*.
 - [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)
-<br>Minhao Jiang=, Xiangchen Song, **Jieyu Zhang**, Jiawei Han.
+<br>Minhao Jiang=, Xiangchen Song=, **Jieyu Zhang**, Jiawei Han.
 <br>*WWW 2022*.
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
@@ -54,7 +54,7 @@
 <br>Bohan Wang, Huishuai Zhang, **Jieyu Zhang**, Qi Meng, Wei Chen, Tie-Yan Liu.
 <br>*NeurIPS 2021*.
 - [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
-<br>**Jieyu Zhang**, Xiangchen Song, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
+<br>**Jieyu Zhang**, Xiangchen Song=, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
 <br>*AAAI 2021*.
 - [Co-Embedding Network Nodes and Hierarchical Labels with Taxonomy Based Generative Adversarial Networks](https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg)
 <br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
