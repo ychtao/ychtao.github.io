@@ -13,7 +13,7 @@
 <br>Zhengyu Hu=, **Jieyu Zhang**, Haonan Wang, Siwei Liu, Shangsong Liang.
 <br>*KDD 2023*.
 - [Frustratingly Easy Regularization on Representation Can Boost Deep Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2023/html/He_Frustratingly_Easy_Regularization_on_Representation_Can_Boost_Deep_Reinforcement_Learning_CVPR_2023_paper.html)
-<br>Qiang He, Huangyuan Su, **Jieyu Zhang**, Xinwen Hou.
+<br>Qiang He\*, Huangyuan Su\*, **Jieyu Zhang**, Xinwen Hou.
 <br>*CVPR 2023*.
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song=\*, Alexander Ratner.
