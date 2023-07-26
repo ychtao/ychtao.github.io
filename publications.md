@@ -1,3 +1,5 @@
+(\* denotes equal contribution, = denotes student I mentored)
+
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br>*DMLR @ ICML 2023*.
@@ -8,22 +10,25 @@
 <br>Jeffrey Li, **Jieyu Zhang**, Ludwig Schmidt, Alexander Ratner.
 <br>*DMLR @ ICML 2023*.
 - [Taming Small-sample Bias in Low-budget Active Learning](https://arxiv.org/abs/2306.11056)
-<br>Linxin Song, **Jieyu Zhang**, Xiaotian Lu, Tianyi Zhou.
+<br>Linxin Song=, **Jieyu Zhang**, Xiaotian Lu, Tianyi Zhou.
 <br>*DMLR @ ICML 2023*.
 - [When to Learn What: Model-Adaptive Data Augmentation Curriculum]()
-<br>Chengkai Hou, **Jieyu Zhang**, Tianyi Zhou.
+<br>Chengkai Hou=, **Jieyu Zhang**, Tianyi Zhou.
 <br>*ICCV 2023*.
 - [Subclass-balancing Contrastive Learning for Long-tailed Recognition]()
-<br>Chengkai Hou, **Jieyu Zhang**, Haonan Wang, Tianyi Zhou.
+<br>Chengkai Hou=, **Jieyu Zhang**, Haonan Wang, Tianyi Zhou.
 <br>*ICCV 2023*.
 - [Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach](https://aclanthology.org/2023.acl-long.141/)
 <br>Yue Yu, Rongzhi Zhang, Ran Xu, **Jieyu Zhang**, Jiaming Shen, Chao Zhang.
 <br>*ACL 2023*.
+- [Leveraging Relational Graph Neural Network for Transductive Model Ensemble]()
+<br>Zhengyu Hu=, **Jieyu Zhang**, Haonan Wang, Siwei Liu, Shangsong Liang.
+<br>*KDD 2023*.
 - [Frustratingly Easy Regularization on Representation Can Boost Deep Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2023/html/He_Frustratingly_Easy_Regularization_on_Representation_Can_Boost_Deep_Reinforcement_Learning_CVPR_2023_paper.html)
 <br>Qiang He, Huangyuan Su, **Jieyu Zhang**, Xinwen Hou.
 <br>*CVPR 2023*.
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
-<br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
+<br>**Jieyu Zhang\***, Linxin Song=\*, Alexander Ratner.
 <br>*AISTATS 2023*.
 - [ChemSpacE: Toward Steerable and Interpretable Chemical Space Exploration](https://openreview.net/forum?id=C1Xl8dYCBn)
 <br>Yuanqi Du, Xian Liu, Shengchao Liu, **Jieyu Zhang**, Bolei Zhou.
@@ -35,7 +40,7 @@
 <br>**Jieyu Zhang**, Yujing Wang, Yaming Yang, Yang Luo, Alexander Ratner.
 <br>*CIKM 2022*.
 - [Adaptive Ranking-based Sample Selection for Weakly Supervised Class-imbalanced Text Classification](https://aclanthology.org/2022.findings-emnlp.119/)
-<br>Linxin Song, **Jieyu Zhang**, Tianxiang Yang, Masayuki Goto
+<br>Linxin Song=, **Jieyu Zhang**, Tianxiang Yang, Masayuki Goto
 <br>*EMNLP 2022 (Findings)*.
 - [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
 <br>**Jieyu Zhang\***, Haonan Wang\*, Cheng-Yu Hsieh, Alexander Ratner.
@@ -51,7 +56,7 @@
 <br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
 <br>*VLDB 2022*.
 - [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)
-<br>Minhao Jiang, Xiangchen Song, **Jieyu Zhang**, Jiawei Han.
+<br>Minhao Jiang=, Xiangchen Song, **Jieyu Zhang**, Jiawei Han.
 <br>*WWW 2022*.
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
