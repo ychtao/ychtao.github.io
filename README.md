@@ -62,7 +62,7 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 
 
 ## 🎓 Education
-- University of Washington - Ph.D. in Computer Science  (2020 - Present). 
+- University of Washington - Ph.D. in Computer Science  2020 - 2026 (expected). 
 - University of Illinois Urbana-Champaign - B.S. in Statistics and Computer Science. 
 
 ## 👨‍💻 Industrial Experience
