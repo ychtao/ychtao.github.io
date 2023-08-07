@@ -29,7 +29,7 @@
 <br>*CIKM 2022*.
 - [Adaptive Ranking-based Sample Selection for Weakly Supervised Class-imbalanced Text Classification](https://aclanthology.org/2022.findings-emnlp.119/)
 <br>Linxin Song=, **Jieyu Zhang**, Tianxiang Yang, Masayuki Goto
-<br>*EMNLP 2022 (Findings)*.
+<br>*EMNLP 2022*.
 - [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
 <br>**Jieyu Zhang\***, Haonan Wang\*, Cheng-Yu Hsieh, Alexander Ratner.
 <br>*NeurIPS 2022*.
