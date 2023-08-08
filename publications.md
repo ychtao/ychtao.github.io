@@ -9,7 +9,7 @@
 - [Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach](https://aclanthology.org/2023.acl-long.141/)
 <br>Yue Yu, Rongzhi Zhang, Ran Xu, **Jieyu Zhang**, Jiaming Shen, Chao Zhang.
 <br>*ACL 2023*.
-- [Leveraging Relational Graph Neural Network for Transductive Model Ensemble]()
+- [Leveraging Relational Graph Neural Network for Transductive Model Ensemble](https://dl.acm.org/doi/pdf/10.1145/3580305.3599414)
 <br>Zhengyu Hu=, **Jieyu Zhang**, Haonan Wang, Siwei Liu, Shangsong Liang.
 <br>*KDD 2023*.
 - [Frustratingly Easy Regularization on Representation Can Boost Deep Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2023/html/He_Frustratingly_Easy_Regularization_on_Representation_Can_Boost_Deep_Reinforcement_Learning_CVPR_2023_paper.html)
