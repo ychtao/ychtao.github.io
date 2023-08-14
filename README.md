@@ -18,9 +18,6 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
 <br>*AISTATS 2023*.
-- [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
-<br>Renzhi Wu, Shen-En Chen, **Jieyu Zhang**, Xu Chu.
-<br>*ICLR 2023*.
 - [Understanding Programmatic Weak Supervision via Source-aware Influence Function](https://arxiv.org/abs/2205.12879)
 <br>**Jieyu Zhang\***, Haonan Wang\*, Cheng-Yu Hsieh, Alexander Ratner.
 <br>*NeurIPS 2022*.
