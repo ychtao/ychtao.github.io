@@ -39,7 +39,7 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
-- [DataComp: In search of the next generation of multimodal datasets](https://arxiv.org/abs/2304.14108)
+- [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
 <br>34 authors.
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
 <br>**Jieyu Zhang\***, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
