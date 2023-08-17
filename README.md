@@ -35,6 +35,8 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 ### Preprints
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
 <br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework]([https://arxiv.org/abs/2307.10635](https://arxiv.org/abs/2308.08155))
+<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
 - [DataComp: In search of the next generation of multimodal datasets](https://arxiv.org/abs/2304.14108)
