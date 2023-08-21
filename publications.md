@@ -21,6 +21,9 @@
 - [ChemSpacE: Toward Steerable and Interpretable Chemical Space Exploration](https://openreview.net/forum?id=C1Xl8dYCBn)
 <br>Yuanqi Du, Xian Liu, Shengchao Liu, **Jieyu Zhang**, Bolei Zhou.
 <br>*TMLR 2023*.
+- [Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph](https://arxiv.org/abs/2211.10890)
+<br>Haonan Wang, **Jieyu Zhang**, Wei Huang, Qi Zhu, Kenji Kawaguchi, Xiaokui Xiao.
+<br>*TMLR 2023*.
 - [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
 <br>Renzhi Wu, Shen-En Chen, **Jieyu Zhang**, Xu Chu.
 <br>*ICLR 2023*.
