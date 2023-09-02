@@ -14,6 +14,7 @@
 <br>Hong Guo*, Yujing Wang*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
 - [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
 <br>**Jieyu Zhang\***, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
+
 ### Peer-reviewed
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
