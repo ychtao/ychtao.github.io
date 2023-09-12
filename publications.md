@@ -31,10 +31,10 @@
 - [Neural Scaling Law in Molecular Representation Learning]()
 <br>Dingshuo Chen\*, Yanqiao Zhu\*, **Jieyu Zhang**, Yuanqi Du, Zhixun Li, Qiang Liu, Shu Wu, Liang Wang.
 <br>*DMLR @ ICML 2023*.
-- [When to Learn What: Model-Adaptive Data Augmentation Curriculum]()
+- [When to Learn What: Model-Adaptive Data Augmentation Curriculum](https://arxiv.org/abs/2309.04747)
 <br>Chengkai Hou=, **Jieyu Zhang**, Tianyi Zhou.
 <br>*ICCV 2023*.
-- [Subclass-balancing Contrastive Learning for Long-tailed Recognition]()
+- [Subclass-balancing Contrastive Learning for Long-tailed Recognition](https://arxiv.org/abs/2306.15925)
 <br>Chengkai Hou=, **Jieyu Zhang**, Haonan Wang, Tianyi Zhou.
 <br>*ICCV 2023*.
 - [Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach](https://aclanthology.org/2023.acl-long.141/)
