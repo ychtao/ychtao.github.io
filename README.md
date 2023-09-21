@@ -8,12 +8,12 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 ### Peer-reviewed
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
-<br>*DMLR @ ICML 2023*.
-- [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
-<br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
-<br>*DMLR @ ICML 2023*.
+<br>*NeurIPS 2023*.
 - [Characterizing the Impacts of Semi-supervised Learning for Weak Supervision]()
 <br>Jeffrey Li, **Jieyu Zhang**, Ludwig Schmidt, Alexander Ratner.
+<br>*NeurIPS 2023*.
+- [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
+<br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
 <br>*DMLR @ ICML 2023*.
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song\*, Alexander Ratner.
