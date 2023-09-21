@@ -79,7 +79,7 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 - UIUC John R. Pasta Outstanding Undergraduate Award
 
 ## 📍 Professional Services
-- Reviewer: NeurIPS, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, KDD, LOG.
+- Reviewer: NeurIPS, ICLR, AAAI, IJCAI, CVPR, ACL, EMNLP, ARR, AISTATS, KDD, LOG.
 
 ## 📫 Contact
 Email: jieyuz2@cs.washington.edu
