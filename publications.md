@@ -1,13 +1,9 @@
 (\* denotes equal contribution, = denotes student I mentored)
 ### Preprints
-- [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
-<br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
-- [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
-<br>34 authors.
 - [MaskSearch: Querying Image Masks at Scale](https://arxiv.org/abs/2305.02375)
 <br>Dong He, **Jieyu Zhang**, Maureen Daum, Alexander Ratner, Magdalena Balazinska.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
@@ -22,14 +18,21 @@
 - [Characterizing the Impacts of Semi-supervised Learning for Weak Supervision]()
 <br>Jeffrey Li, **Jieyu Zhang**, Ludwig Schmidt, Alexander Ratner.
 <br>*NeurIPS 2023*.
+- [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
+<br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
+<br>*NeurIPS 2023*.
 - [Large Language Model as Attributed Training Data Generator: A Tale of Diversity and Bias](https://arxiv.org/abs/2306.15895)
 <br>Yue Yu\*, Yuchen Zhuang\*, **Jieyu Zhang\***, Yu Meng, Alexander Ratner, Ranjay Krishna, Jiaming Shen, Chao Zhang.
-<br>*DMLR @ ICML 2023*.
-- [Taming Small-sample Bias in Low-budget Active Learning](https://arxiv.org/abs/2306.11056)
-<br>Linxin Song, **Jieyu Zhang**, Xiaotian Lu, Tianyi Zhou.
-<br>*DMLR @ ICML 2023*.
+<br>*NeurIPS 2023*.
+- [DataComp: In Search of the Next Generation of Multimodal Datasets](https://arxiv.org/abs/2304.14108)
+<br>34 authors.
+<br>*NeurIPS 2023*.
+<br><font color=red>Oral Presentation</font>
 - [Neural Scaling Law in Molecular Representation Learning]()
 <br>Dingshuo Chen\*, Yanqiao Zhu\*, **Jieyu Zhang**, Yuanqi Du, Zhixun Li, Qiang Liu, Shu Wu, Liang Wang.
+<br>*NeurIPS 2023*.
+- [Taming Small-sample Bias in Low-budget Active Learning](https://arxiv.org/abs/2306.11056)
+<br>Linxin Song, **Jieyu Zhang**, Xiaotian Lu, Tianyi Zhou.
 <br>*DMLR @ ICML 2023*.
 - [When to Learn What: Model-Adaptive Data Augmentation Curriculum](https://arxiv.org/abs/2309.04747)
 <br>Chengkai Hou=, **Jieyu Zhang**, Tianyi Zhou.
