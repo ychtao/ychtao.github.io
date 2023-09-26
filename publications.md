@@ -1,7 +1,10 @@
 (\* denotes equal contribution, = denotes student I mentored)
 ### Preprints
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
-<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang
+<br>Qingyun Wu, Gagan Bansal, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang
+- [NLPBench: Evaluating Large Language Models on Solving NLP Problems]()
+  <br>Linxin Song=, **Jieyu Zhang**, Lechao Cheng, Pengyuan Zhou, Tianyi Zhou, Irene LI
+  <br>Arxiv 2023
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
 - [MaskSearch: Querying Image Masks at Scale](https://arxiv.org/abs/2305.02375)
@@ -32,7 +35,7 @@
 <br>Dingshuo Chen\*, Yanqiao Zhu\*, **Jieyu Zhang**, Yuanqi Du, Zhixun Li, Qiang Liu, Shu Wu, Liang Wang.
 <br>*NeurIPS 2023*.
 - [Taming Small-sample Bias in Low-budget Active Learning](https://arxiv.org/abs/2306.11056)
-<br>Linxin Song, **Jieyu Zhang**, Xiaotian Lu, Tianyi Zhou.
+<br>Linxin Song=, **Jieyu Zhang**, Xiaotian Lu, Tianyi Zhou.
 <br>*DMLR @ ICML 2023*.
 - [When to Learn What: Model-Adaptive Data Augmentation Curriculum](https://arxiv.org/abs/2309.04747)
 <br>Chengkai Hou=, **Jieyu Zhang**, Tianyi Zhou.
