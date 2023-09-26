@@ -4,7 +4,6 @@
 <br>Qingyun Wu, Gagan Bansal, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang
 - [NLPBench: Evaluating Large Language Models on Solving NLP Problems]()
   <br>Linxin Song=, **Jieyu Zhang**, Lechao Cheng, Pengyuan Zhou, Tianyi Zhou, Irene LI
-  <br>Arxiv 2023
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
 - [MaskSearch: Querying Image Masks at Scale](https://arxiv.org/abs/2305.02375)
