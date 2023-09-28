@@ -2,7 +2,7 @@
 ### Preprints
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang
-- [NLPBench: Evaluating Large Language Models on Solving NLP Problems]()
+- [NLPBench: Evaluating Large Language Models on Solving NLP Problems](http://arxiv.org/abs/2309.15630)
   <br>Linxin Song=, **Jieyu Zhang**, Lechao Cheng, Pengyuan Zhou, Tianyi Zhou, Irene LI
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
@@ -30,7 +30,7 @@
 <br>34 authors.
 <br>*NeurIPS 2023*.
 <br><font color=red>Oral Presentation</font>
-- [Neural Scaling Law in Molecular Representation Learning]()
+- [Neural Scaling Law in Molecular Representation Learning](http://arxiv.org/abs/2309.15123)
 <br>Dingshuo Chen\*, Yanqiao Zhu\*, **Jieyu Zhang**, Yuanqi Du, Zhixun Li, Qiang Liu, Shu Wu, Liang Wang.
 <br>*NeurIPS 2023*.
 - [Taming Small-sample Bias in Low-budget Active Learning](https://arxiv.org/abs/2306.11056)
