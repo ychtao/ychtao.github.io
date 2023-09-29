@@ -1,6 +1,6 @@
 (\* denotes equal contribution, = denotes student I mentored)
 ### Preprints
-- [EcoAssistant: Using LLM Assistant More Affordably And Accurately]()
+- [EcoAssistant: Using LLM Assistant More Affordably and Accurately]()
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang.
