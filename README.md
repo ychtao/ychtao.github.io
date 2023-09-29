@@ -40,6 +40,8 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 <br><font color=red>Oral Presentation</font>
 
 ### Preprints
+- [EcoAssistant: Using LLM Assistant More Affordably and Accurately]()
+<br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
