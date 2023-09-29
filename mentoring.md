@@ -7,8 +7,8 @@
 <br>[MS@Waseda University, looking for PhD position starting in fall'24]
 <br>outcome: 1\*EMNLP, 1\*AISTATS
 - [Minhao Jiang](https://minhaoj2.github.io/) 
-<br>[now MS@UIUC]
+<br>[Undergrad@UIUC -> MS@UIUC]
 <br>outcome: 1\*WWW
 - [Xiangchen Song](https://xiangchensong.github.io/) 
-<br>[now PhD@CMU]
+<br>[Undergrad@UIUC -> PhD@CMU]
 <br>outcome: 1\*WWW, 1\*AAAI
