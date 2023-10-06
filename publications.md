@@ -3,7 +3,7 @@
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
-<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang.
+<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang.
 - [NLPBench: Evaluating Large Language Models on Solving NLP Problems](http://arxiv.org/abs/2309.15630)
   <br>Linxin Song=, **Jieyu Zhang**, Lechao Cheng, Pengyuan Zhou, Tianyi Zhou, Irene LI.
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
