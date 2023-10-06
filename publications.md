@@ -10,8 +10,6 @@
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
 - [MaskSearch: Querying Image Masks at Scale](https://arxiv.org/abs/2305.02375)
 <br>Dong He, **Jieyu Zhang**, Maureen Daum, Alexander Ratner, Magdalena Balazinska.
-- [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
-<br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
 
 ### Peer-reviewed
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
