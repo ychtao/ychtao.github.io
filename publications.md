@@ -1,6 +1,6 @@
 (\* denotes equal contribution, = denotes student I mentored)
 ### Preprints
-- [EcoAssistant: Using LLM Assistant More Affordably and Accurately]()
+- [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Shaokun Zhang, Erkang Zhu, Beibin Li, Li Jiang, Xiaoyun Zhang, Chi Wang.
@@ -12,8 +12,6 @@
 <br>Dong He, **Jieyu Zhang**, Maureen Daum, Alexander Ratner, Magdalena Balazinska.
 - [Label-Efficient Interactive Time-Series Anomaly Detection](https://arxiv.org/abs/2212.14621)
 <br>Hong Guo\*, Yujing Wang\*, **Jieyu Zhang\***, Zhengjie Lin, Yunhai Tong, Lei Yang, Luoxing Xiong, Congrui Huang.
-- [A Survey on Programmatic Weak Supervision](https://arxiv.org/abs/2202.05433)
-<br>**Jieyu Zhang\***, Cheng-Yu Hsieh\*, Yue Yu\*, Chao Zhang, Alexander Ratner.
 
 ### Peer-reviewed
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
