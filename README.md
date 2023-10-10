@@ -89,4 +89,4 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 
 ## 📫 Contact
 Email: jieyuz2@cs.washington.edu
-<br>Twitter: @JieyuZhang20
+<br>Twitter: [@JieyuZhang20](https://twitter.com/JieyuZhang20)
