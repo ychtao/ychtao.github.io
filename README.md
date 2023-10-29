@@ -9,9 +9,6 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
 <br>*NeurIPS 2023*.
-- [Characterizing the Impacts of Semi-supervised Learning for Weak Supervision]()
-<br>Jeffrey Li, **Jieyu Zhang**, Ludwig Schmidt, Alexander Ratner.
-<br>*NeurIPS 2023*.
 - [SugarCrepe: Fixing Hackable Benchmarks for Vision-Language Compositionality](https://arxiv.org/abs/2306.14610)
 <br>Cheng-Yu Hsieh\*, **Jieyu Zhang\***, Zixian Ma, Aniruddha Kembhavi, Ranjay Krishna
 <br>*NeurIPS 2023*.
@@ -31,9 +28,6 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 - [Creating Training Sets via Weak Indirect Supervision](https://arxiv.org/abs/2110.03484)
 <br>**Jieyu Zhang**, Bohan Wang, Xiangchen Song, Yujing Wang, Yaming Yang, Jing Bai, Alexander Ratner.
 <br>*ICLR 2022*.
-- [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
-<br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
-<br>*VLDB 2022*.
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br>*NeurIPS 2021*.
