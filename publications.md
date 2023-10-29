@@ -84,11 +84,11 @@
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br>*NeurIPS 2021*.
 <br><font color=red>Oral Presentation</font>
+
+### Before Ph.D.
 - [Optimizing Information-theoretical Generalization Bound via Anisotropic Noise of SGLD](https://openreview.net/forum?id=lN2Uqm-ScC)
 <br>Bohan Wang, Huishuai Zhang, **Jieyu Zhang**, Qi Meng, Wei Chen, Tie-Yan Liu.
 <br>*NeurIPS 2021*.
-
-### Before Ph.D.
 - [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)
 <br>Minhao Jiang=, Xiangchen Song=, **Jieyu Zhang**, Jiawei Han.
 <br>*WWW 2022*.
