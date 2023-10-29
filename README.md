@@ -5,6 +5,13 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 ## 📝 Selected Publications
 (\* denotes equal contribution)
 
+### Preprints
+- [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
+<br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
+- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
+<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
+<br><font color=red>Github 14,000+ Star & 1,500+ Fork</font>
+
 ### Peer-reviewed
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
 <br>**Jieyu Zhang\***, Bohan Wang\*, Zhengyu Hu, Pang Wei Koh, Alexander Ratner.
@@ -32,13 +39,6 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br>*NeurIPS 2021*.
 <br><font color=red>Oral Presentation</font>
-
-### Preprints
-- [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
-<br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
-- [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
-<br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br><font color=red>Github 10,000+ Star & 1,000+ Fork</font>
 
 ### Before Ph.D.
 - [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
