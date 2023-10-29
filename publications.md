@@ -80,7 +80,6 @@
 - [Nemo: Guiding and Contextualizing Weak Supervision for Interactive Data Programming](https://arxiv.org/abs/2203.01382)
 <br>Cheng-Yu Hsieh, **Jieyu Zhang**, Alexander Ratner.
 <br>*VLDB 2022*.
-
 - [WRENCH: A Comprehensive Benchmark for Weak Supervision](https://arxiv.org/abs/2109.11377)
 <br>**Jieyu Zhang**, Yue Yu, Yinghao Li, Yujing Wang, Yaming Yang, Mao Yang, Alexander Ratner.
 <br>*NeurIPS 2021*.
