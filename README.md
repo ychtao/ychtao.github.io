@@ -60,7 +60,7 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 ## 👨‍💻 Industrial Experience
 - Microsoft Research (Redmond) - Research Intern
 <br> 2023.06-2023.9
-<br> Supervised by Dr. [Chi Wang](https://www.microsoft.com/en-us/research/people/chiw/).
+<br> Supervised by Dr. [Chi Wang](https://www.microsoft.com/en-us/research/people/chiw/) and Dr. [Ahmed H. Awadallah](https://www.microsoft.com/en-us/research/people/hassanam/).
 - Microsoft Research (Asia) - Star Bridge Research Assistant
 <br> 2020.09-2021.12
 <br> Supervised by Dr. [Yujing Wang](https://scholar.google.com/citations?user=YgL4rywAAAAJ&hl=en).
