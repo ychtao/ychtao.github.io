@@ -1,4 +1,4 @@
-I am a Ph.D. student in Computer Science at University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science of University of Illinois Urbana-Champaign, where I was fortunated to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). During the past, I spent time at Microsoft Research and ByteDance AI Lab.
+I am a Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). In the past, I spent time at Microsoft Research and ByteDance AI Lab.
 
 **Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on **faithful evaluation** and **effort-light approaches** with applications in chemistry, biology, physics, etc. My past explorations lay at the intersection of machine learning, data mining, and natural language processing.
 
@@ -48,10 +48,6 @@ I am a Ph.D. student in Computer Science at University of Washington, Seattle, a
 <br>Carl Yang, **Jieyu Zhang**, Jiawei Han.
 <br>*ICDM 2020*.
 <br><font color=red>Best Paper</font>
-- [Neural Embedding Propagation on Heterogeneous Networks]([https://www.computer.org/csdl/proceedings-article/icdm/2020/831600a721/1r54IXOTRSg](https://arxiv.org/abs/1910.00005))
-<br>Carl Yang\*, **Jieyu Zhang\***, Jiawei Han.
-<br>*ICDM 2019*.
-
 
 ## 🎓 Education
 - University of Washington - Ph.D. in Computer Science  2020 - 2026 (expected). 
