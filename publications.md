@@ -8,8 +8,6 @@
   <br>Linxin Song=, **Jieyu Zhang**, Lechao Cheng, Pengyuan Zhou, Tianyi Zhou, Irene LI.
 - [SciBench: Evaluating College-Level Scientific Problem-Solving Abilities of Large Language Models](https://arxiv.org/abs/2307.10635)
 <br>Xiaoxuan Wang\*, Ziniu Hu\*, Pan Lu\*, Yanqiao Zhu\*, **Jieyu Zhang**, Satyen Subramaniam, Arjun R. Loomba, Shichang Zhang, Yizhou Sun, Wei Wang
-- [MaskSearch: Querying Image Masks at Scale](https://arxiv.org/abs/2305.02375)
-<br>Dong He, **Jieyu Zhang**, Maureen Daum, Alexander Ratner, Magdalena Balazinska.
 
 ### Peer-reviewed
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
@@ -43,21 +41,9 @@
 - [Cold-Start Data Selection for Few-shot Language Model Fine-tuning: A Prompt-Based Uncertainty Propagation Approach](https://aclanthology.org/2023.acl-long.141/)
 <br>Yue Yu, Rongzhi Zhang, Ran Xu, **Jieyu Zhang**, Jiaming Shen, Chao Zhang.
 <br>*ACL 2023*.
-- [Leveraging Relational Graph Neural Network for Transductive Model Ensemble](https://dl.acm.org/doi/pdf/10.1145/3580305.3599414)
-<br>Zhengyu Hu=, **Jieyu Zhang**, Haonan Wang, Siwei Liu, Shangsong Liang.
-<br>*KDD 2023*.
-- [Frustratingly Easy Regularization on Representation Can Boost Deep Reinforcement Learning](https://openaccess.thecvf.com/content/CVPR2023/html/He_Frustratingly_Easy_Regularization_on_Representation_Can_Boost_Deep_Reinforcement_Learning_CVPR_2023_paper.html)
-<br>Qiang He\*, Huangyuan Su\*, **Jieyu Zhang**, Xinwen Hou.
-<br>*CVPR 2023*.
 - [Leveraging Instance Features for Label Aggregation in Programmatic Weak Supervision](https://arxiv.org/abs/2210.02724)
 <br>**Jieyu Zhang\***, Linxin Song=\*, Alexander Ratner.
 <br>*AISTATS 2023*.
-- [ChemSpacE: Toward Steerable and Interpretable Chemical Space Exploration](https://openreview.net/forum?id=C1Xl8dYCBn)
-<br>Yuanqi Du, Xian Liu, Shengchao Liu, **Jieyu Zhang**, Bolei Zhou.
-<br>*TMLR 2023*.
-- [Single-Pass Contrastive Learning Can Work for Both Homophilic and Heterophilic Graph](https://arxiv.org/abs/2211.10890)
-<br>Haonan Wang, **Jieyu Zhang**, Wei Huang, Qi Zhu, Kenji Kawaguchi, Xiaokui Xiao.
-<br>*TMLR 2023*.
 - [Learning Hyper Label Model for Programmatic Weak Supervision](https://openreview.net/forum?id=aCQt_BrkSjC)
 <br>Renzhi Wu, Shen-En Chen, **Jieyu Zhang**, Xu Chu.
 <br>*ICLR 2023*.
@@ -89,9 +75,6 @@
 - [TaxoEnrich: Self-Supervised Taxonomy Completion via Structure-Semantic Representations](https://arxiv.org/abs/2202.04887)
 <br>Minhao Jiang=, Xiangchen Song=, **Jieyu Zhang**, Jiawei Han.
 <br>*WWW 2022*.
-- [Optimizing Information-theoretical Generalization Bound via Anisotropic Noise of SGLD](https://openreview.net/forum?id=lN2Uqm-ScC)
-<br>Bohan Wang, Huishuai Zhang, **Jieyu Zhang**, Qi Meng, Wei Chen, Tie-Yan Liu.
-<br>*NeurIPS 2021*.
 - [Taxonomy Completion via Triplet Matching Network](https://arxiv.org/abs/2101.01896)
 <br>**Jieyu Zhang**, Xiangchen Song=, Ying Zeng, Jiaze Chen, Jiaming Shen, Yuning Mao, Lei Li.
 <br>*AAAI 2021*.
