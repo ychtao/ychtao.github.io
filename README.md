@@ -8,7 +8,7 @@ I am a Ph.D. student in Computer Science at the University of Washington, Seattl
 ### Preprints
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
-<be>[blog](https://microsoft.github.io/autogen/blog)
+<be>[[blog](https://microsoft.github.io/autogen/blog)]
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
 <br><font color=red>Github 16,000+ Star & 1,800+ Fork</font>
