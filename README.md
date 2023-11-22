@@ -1,6 +1,8 @@
-I am a Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). In the past, I spent time at Microsoft Research and ByteDance AI Lab.
+I am a 4-th year Ph.D. student in Computer Science at the University of Washington, Seattle, advised by Prof. [Ranjay Krishna](http://www.ranjaykrishna.com/index.html) and Prof. [Alex Ratner](https://ajratner.github.io/). Before that, I was an undergraduate student in Computer Science at the University of Illinois Urbana-Champaign, where I was fortunate to be advised by Prof. [Jiawei Han](http://hanj.cs.illinois.edu/). In the past, I spent time at Microsoft Research and ByteDance AI Lab.
 
 **Research Interests**: My current research interests are **interactive and data-centric AI/ML** with an emphasis on **faithful evaluation** and **effort-light approaches** with applications in chemistry, biology, physics, etc. My past explorations lay at the intersection of machine learning, data mining, and natural language processing.
+
+I am happy to mentor a few students on research and especially encourage students from **underrepresented groups** to reach out.
 
 ## 📝 Selected Publications
 (\* denotes equal contribution)
