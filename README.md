@@ -13,7 +13,7 @@ I am happy to mentor a few students on research and especially encourage student
 <br>[[blog](https://microsoft.github.io/autogen/blog/2023/11/09/EcoAssistant)]
 - [AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)
 <br>Qingyun Wu, Gagan Bansal, **Jieyu Zhang**, Yiran Wu, Beibin Li, Erkang Zhu, Li Jiang, Xiaoyun Zhang, Shaokun Zhang, Jiale Liu, Ahmed Awadallah, Ryen White, Doug Burger, Chi Wang
-<br><font color=red>Github 16,000+ Star & 2,000+ Fork</font>
+<br><font color=red>Github 17,000+ Star & 2,000+ Fork</font>
 
 ### Peer-reviewed
 - [On the Trade-off of Intra-/Inter-class Diversity for Supervised Pre-training](https://arxiv.org/abs/2305.12224)
