@@ -26,9 +26,6 @@
 <br>34 authors.
 <br>*NeurIPS 2023*.
 <br><font color=red>Oral Presentation</font>
-- [Uncovering Neural Scaling Laws in Molecular Representation Learning](http://arxiv.org/abs/2309.15123)
-<br>Dingshuo Chen\*, Yanqiao Zhu\*, **Jieyu Zhang**, Yuanqi Du, Zhixun Li, Qiang Liu, Shu Wu, Liang Wang.
-<br>*NeurIPS 2023*.
 - [Taming Small-sample Bias in Low-budget Active Learning](https://arxiv.org/abs/2306.11056)
 <br>Linxin Song=, **Jieyu Zhang**, Xiaotian Lu, Tianyi Zhou.
 <br>*DMLR @ ICML 2023*.
