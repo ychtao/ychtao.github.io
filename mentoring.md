@@ -1,4 +1,4 @@
-- [Zhengyu Hu](https://ppsmk388.github.io/homepage/)
+- [Zhengyu Hu](https://ppsmk388.github.io)
 <br>outcome: 1\*KDD
 - [Chengkai Hou](https://jackhck.github.io/) 
 <br>[MS@Jilin university, looking for PhD position starting in fall'24]
