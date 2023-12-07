@@ -5,7 +5,7 @@
 - [Formalization of Logic Systems and Semantics](https://ychtao.github.io/files/thesis.pdf)
 <br>**Yichen Tao**.
 
-## Preprints
+### Preprints
 - [Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding](https://ychtao.github.io/files/2310.17616.pdf)
 <br>Zhongye Wang, Qinxiang Cao, **Yichen Tao**.
 
