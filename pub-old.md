@@ -1,4 +1,4 @@
-(\* denotes equal contribution, = denotes student I mentored)
+(Asterisk denotes equal contribution)
 ### Preprints
 - [EcoAssistant: Using LLM Assistant More Affordably and Accurately](https://arxiv.org/abs/2310.03046)
 <br>**Jieyu Zhang**, Ranjay Krishna, Ahmed Awadallah, Chi Wang.
