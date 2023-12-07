@@ -5,6 +5,10 @@
 - [Formalization of Logic Systems and Semantics](https://ychtao.github.io/files/thesis.pdf)
 <br>**Yichen Tao**.
 
+## Preprints
+- [Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding](https://ychtao.github.io/files/2310.17616.pdf)
+<br>Zhongye Wang, Qinxiang Cao, **Yichen Tao**.
+
 ### Peer-reviewed Papers
 - [Adaptivity Gap for Influence Maximization with Linear Threshold Model on Trees](https://ychtao.github.io/files/ijtcs'23.pdf)
 <br>**Yichen Tao**, Shuo Wang, Kuan Yang.
