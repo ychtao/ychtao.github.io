@@ -1,4 +1,5 @@
 <!-- (Asterisk denotes equal contribution) -->
+## Publications
 
 ### Thesis
 - [Formalization of Logic Systems and Semantics](https://ychtao.github.io/files/thesis.pdf)
