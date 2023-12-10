@@ -12,8 +12,7 @@ Software systems are pervasive in today’s society, and are becoming increasing
 - Physical space: [Room 4956, 2260 Hayward St, Ann Arbor, MI 48109, USA](https://maps.app.goo.gl/y5fG6HCNfeiwRz4a6)
 - Cyber space: [ychtao@umich.edu](mailto:ychtao@umich.edu)
 
-**Links**:
-- [Google Scholar](https://scholar.google.com/citations?user=bWpMUNUAAAAJ&hl=en&oi=sra)
-- [GitHub](https://github.com/ychtao)
-- [LinkedIn](https://www.linkedin.com/in/yichen-tao-196478286/)
-- [Twitter](https://twitter.com/Yichen_Tao_)
+**Links**: [Google Scholar](https://scholar.google.com/citations?user=bWpMUNUAAAAJ&hl=en&oi=sra) /
+[GitHub](https://github.com/ychtao) / 
+[LinkedIn](https://www.linkedin.com/in/yichen-tao-196478286/) / 
+[Twitter](https://twitter.com/Yichen_Tao_)
