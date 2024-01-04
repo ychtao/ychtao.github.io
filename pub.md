@@ -6,7 +6,7 @@
 <br>**Yichen Tao**.
 
 ### Preprints
-- A Complete Landscape for the Price of Envy-Freeness
+- [A Complete Landscape for the Price of Envy-Freeness](https://ychtao.github.io/files/aamas'24.pdf)
 <br>Zihao Li, Shengxin Liu, Xinhang Lu, Biaoshuai Tao, **Yichen Tao**.
 <br>Accepted by International Conference on Autonomous Agents and Multiagent Systems, 2024.
 - [Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding](https://ychtao.github.io/files/2310.17616.pdf)
