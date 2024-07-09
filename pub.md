@@ -12,7 +12,7 @@
 ### Peer-reviewed Papers
 - [A Complete Landscape for the Price of Envy-Freeness](https://ychtao.github.io/files/aamas'24.pdf)
 <br>Zihao Li, Shengxin Liu, Xinhang Lu, Biaoshuai Tao, **Yichen Tao**.
-<br>To appear at *International Conference on Autonomous Agents and Multiagent Systems, 2024*.
+<br>*International Conference on Autonomous Agents and Multiagent Systems, 2024*.
 - [Adaptivity Gap for Influence Maximization with Linear Threshold Model on Trees](https://ychtao.github.io/files/ijtcs'23.pdf)
 <br>**Yichen Tao**, Shuo Wang, Kuan Yang.
 <br>*International Joint Conference on Theoretical Computer Science – Frontier of Algorithmic Wisdom, 2023*.
