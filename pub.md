@@ -9,7 +9,7 @@
 
 
 ### Peer-reviewed Papers
-- [Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding](https://ychtao.github.io/files/jar2024.pdf)
+- [Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding](https://ychtao.github.io/files/jar'24.pdf)
 <br>Zhongye Wang, Qinxiang Cao, **Yichen Tao**.
 <br> *Journal of Automated Reasoning, August 2024*
 - [A Complete Landscape for the Price of Envy-Freeness](https://ychtao.github.io/files/aamas'24.pdf)
