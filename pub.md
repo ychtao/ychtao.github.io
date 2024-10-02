@@ -5,11 +5,13 @@
 - [Formalization of Logic Systems and Semantics](https://ychtao.github.io/files/thesis.pdf)
 <br>**Yichen Tao**.
 
-### Preprints
-- [Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding](https://ychtao.github.io/files/2310.17616.pdf)
-<br>Zhongye Wang, Qinxiang Cao, **Yichen Tao**.
+<!-- ### Preprints -->
+
 
 ### Peer-reviewed Papers
+- [Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding](https://ychtao.github.io/files/jar2024.pdf)
+<br>Zhongye Wang, Qinxiang Cao, **Yichen Tao**.
+<br> *Journal of Automated Reasoning, August 2024*
 - [A Complete Landscape for the Price of Envy-Freeness](https://ychtao.github.io/files/aamas'24.pdf)
 <br>Zihao Li, Shengxin Liu, Xinhang Lu, Biaoshuai Tao, **Yichen Tao**.
 <br>*International Conference on Autonomous Agents and Multiagent Systems, 2024*.
