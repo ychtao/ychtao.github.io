@@ -9,7 +9,7 @@
 
 
 ### Peer-reviewed Papers
-- Probabilistic Floating-Point Round-Off Analysis via Concentration Inequalities
+- [Probabilistic Floating-Point Round-Off Analysis via Concentration Inequalities](https://ychtao.github.io/pub.html)
 <br>**Yichen Tao**, Hongfei Fu, Jiawei Chen, Jean-Baptiste Jeannin
 <br> To appear at *Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2026*.
 - [Verifying Programs with Logic and Extended Proof Rules: Deep Embedding v.s. Shallow Embedding](https://ychtao.github.io/files/jar'24.pdf)
