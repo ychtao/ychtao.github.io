@@ -1,4 +1,4 @@
-I am a third-year Ph.D. student in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/), advised by [Prof. Jean-Baptiste Jeannin](https://jeannin.github.io/) in [Michigan Aerospace and Robotics Verification Laboratory (MARVL)](https://marvl.engin.umich.edu/) and [Prof. Max New](https://maxsnew.com/). 
+I am a third-year Ph.D. student in [Computer Science and Engineering](https://cse.engin.umich.edu/) at the [University of Michigan](https://umich.edu/), advised by [Prof. Jean-Baptiste Jeannin](https://jeannin.github.io/).
 Before that, I was an undergraduate student in [Computer Science and Technology](https://english.seiee.sjtu.edu.cn/) at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), working with [Prof. Qinxiang Cao](https://jhc.sjtu.edu.cn/people/members/faculty/qinxiang-cao.html) and [Prof. Biaoshuai Tao](https://jhc.sjtu.edu.cn/~bstao/).
 <!-- advised by [Prof. Qinxiang Cao](https://jhc.sjtu.edu.cn/people/members/faculty/qinxiang-cao.html). -->
 
