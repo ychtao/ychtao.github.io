@@ -9,6 +9,10 @@
 
 
 ### Peer-reviewed Papers
+- [Tighter error bounds using structural
+floating-point properties and tail bounds](https://ychtao.github.io/files/correctness'26.pdf)
+<br> Mohit Tekriwal, Ignacio Laguna, **Yichen Tao**, Jean-Baptiste Jeannin
+<br> To appear at *International Workshop on Software Correctness for HPC Applications (Correctness), 2026**
 - [Probabilistic Floating-Point Round-Off Analysis via Concentration Inequalities](https://ychtao.github.io/files/oopsla'26.pdf)
 <br>**Yichen Tao**, Hongfei Fu, Jiawei Chen, Jean-Baptiste Jeannin
 <br> To appear at *Object-Oriented Programming, Systems, Languages & Applications (OOPSLA), 2026*.
